@@ -1,5 +1,6 @@
 /node_modules/
 /Topics/
+/dist/
 /base/
 *.yaml
 *.idea
